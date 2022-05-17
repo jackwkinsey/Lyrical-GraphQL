@@ -1,2 +1,3 @@
 # Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+
+This repo contains the course work for Stephen Grider's **_GraphQL with React_** course on Udemy.
